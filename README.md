@@ -21,6 +21,7 @@ systemctl restart openvpnas
 
 This file is cracked with centos 7 system
 
+renderings 效果图
 ![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_035921.jpg)
 
 ![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_040157.jpg)
