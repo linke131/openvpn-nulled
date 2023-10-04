@@ -4,14 +4,28 @@ OpenVPN Access Server 2.12.1 无连接数限制
 OpenVPN Access Server 2.12.1 No limit on the number of connections
 
 避坑：安装完成后，一定要启动一次，正确的进入页面，看到只有2个许可，然后再破解，否则将会陷入死循环报错中
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/20230712_1123440.png)
+
+就像这样：👇
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_211010.png)
 
 执行命令
-
+systemctl stop openvpnas
+reboot
+systemctl start openvpnas
+systemctl status openvpnas
 
 Avoid pitfalls: After the installation is completed, be sure to start it once, enter the page correctly, see that there are only 2 licenses, and then crack it, otherwise you will fall into an infinite loop and report errors.
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/20230712_1123440.png)
+
+Like this: 👇
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_211010.png)
 
 Excuting an order
-
+systemctl stop openvpnas
+reboot
+systemctl start openvpnas
+systemctl status openvpnas
 
 使用方法
 # 备份并替换文件
