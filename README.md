@@ -13,10 +13,17 @@ OpenVPN Access Server 2.12.1 No limit on the number of connections
 
 
 systemctl stop openvpnas
+
+
 reboot
+
+
 systemctl start openvpnas
+
+
 systemctl status openvpnas
 
+# En
 Avoid pitfalls: After the installation is completed, be sure to start it once, enter the page correctly, see that there are only 2 licenses, and then crack it, otherwise you will fall into an infinite loop and report errors.
 ![Image](https://github.com/linke131/openvpn-nulled/blob/main/20230712_1123440.png)
 
@@ -27,9 +34,16 @@ Like this: 👇
 
 
 systemctl stop openvpnas
+
+
 reboot
+
+
 systemctl start openvpnas
+
+
 systemctl status openvpnas
+
 
 # 使用方法
 # 备份并替换文件
