@@ -45,8 +45,8 @@ systemctl start openvpnas
 systemctl status openvpnas
 
 
-# 使用方法
-# 备份并替换文件
+
+# 使用方法 备份并替换文件
 mv /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg.orginal
 cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg
 
