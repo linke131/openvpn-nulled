@@ -9,7 +9,9 @@ cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovp
 
 # 重启服务
 systemctl restart openvpnas
-该文件破解与 centos 7系统
+破解文件测试系统: Centos7
+其他系统未测试
+破解文件使用: Python V3.10.9 构建
 
 en
 # bak Back up and replace source files
@@ -19,9 +21,11 @@ cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovp
 # restart server
 systemctl restart openvpnas
 
-This file is cracked with centos 7 system
+Cracked file test system: Centos7
+Not tested on other systems
+Crack file using: Python V3.10.9 build
 
 # Renderings 效果图
-![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_035921.jpg)
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_203410.jpg)
 
-![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_040157.jpg)
+![Image](https://github.com/linke131/openvpn-nulled/blob/main/IMG_20231004_204417.jpg)
