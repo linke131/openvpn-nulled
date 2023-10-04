@@ -50,7 +50,7 @@ systemctl status openvpnas
 mv /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg.orginal
 cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg
 
-# 替换并重启Openvpn server
+# 替换后重启Openvpn server
 systemctl restart openvpnas
 
 破解文件测试系统: Centos7
@@ -64,7 +64,7 @@ systemctl restart openvpnas
 mv /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg.orginal
 cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg
 
-# Replace and restart Openvpn server
+# Restart after replacement Openvpn server
 systemctl restart openvpnas
 
 Cracked file test system: Centos7
