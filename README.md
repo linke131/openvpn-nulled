@@ -48,6 +48,7 @@ systemctl status openvpnas
 
 # 使用方法 备份并替换文件
 mv /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg.orginal
+
 cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg
 
 # 替换后重启Openvpn server
@@ -62,6 +63,7 @@ systemctl restart openvpnas
 # En
 # bak Back up and replace source files
 mv /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg.orginal
+
 cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovpn-2.0-py3.6.egg
 
 # Restart after replacement Openvpn server
