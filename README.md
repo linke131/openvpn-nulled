@@ -72,7 +72,11 @@ cp ./pyovpn-2.0-py3.10.egg.cracked_2.12.1 /usr/local/openvpn_as/lib/python/pyovp
 systemctl restart openvpnas
 
 Cracked file test system: Centos7
+
+
 Not tested on other systems
+
+
 Crack file using: Python V3.10.9 build
 
 # Renderings 效果图
